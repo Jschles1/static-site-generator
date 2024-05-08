@@ -1,4 +1,4 @@
-# README for Markdown to HTML Conversion Project
+# Markdown to HTML Conversion Project
 
 ## Overview
 This project provides a Python-based solution for converting Markdown files into HTML pages. It includes functionality to recursively process directories containing Markdown files, apply HTML templates, and serve the generated content over a simple HTTP server.
